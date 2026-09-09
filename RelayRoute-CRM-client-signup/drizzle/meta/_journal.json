@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788456787881,
+      "tag": "0000_clammy_ultron",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788894078201,
+      "tag": "0001_flawless_lyja",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1788909413095,
+      "tag": "0002_white_nextwave",
+      "breakpoints": true
+    }
+  ]
+}
